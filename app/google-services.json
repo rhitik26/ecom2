@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "664754559888",
+    "firebase_url": "https://ecom2-d51b3.firebaseio.com",
+    "project_id": "ecom2-d51b3",
+    "storage_bucket": "ecom2-d51b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664754559888:android:a870984b086fcccf45b115",
+        "android_client_info": {
+          "package_name": "com.example.ecom2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664754559888-5uu98r2pm830qcmlsspbhoe6n5vg37i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecom2",
+            "certificate_hash": "3eb1402e2446833279630ead831c7f0ae8378a5f"
+          }
+        },
+        {
+          "client_id": "664754559888-ndm42b93p5hovf80anp6855447hrf4uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-JarRacaYsBH7nZJIoo7Wrf_mRv8NNvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664754559888-ndm42b93p5hovf80anp6855447hrf4uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
